@@ -1,2 +1,1 @@
-# Website
-Website for Microfluidic Grid 
+Prototype of the application to approximate concentration and velocity in microfluidic mixing chips
