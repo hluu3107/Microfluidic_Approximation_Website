@@ -1,0 +1,4 @@
+Django==4.2.11
+django-bootstrap==0.2.4
+django-crispy-forms==2.0
+whitenoise==6.4.0
