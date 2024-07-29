@@ -7,15 +7,16 @@ This project provides a fast numerical approximation algorithm to predict the ve
 The application is hosted at [Fluid Mixing Application](https://valentinoanny.pythonanywhere.com/).
 
 ## Features
-Customize grid sizes and topologies  
-Define dimensions of channels in the grids  
-Set fluid properties such as diffusion coefficient, velocity, and concentration  
-Interactive grid drawing experience using Sigma JS  
+Users can:
+* Customize grid sizes and topologies  
+* Set dimensions of channels in the grids  
+* Set fluid properties such as diffusion coefficient, velocity, and concentration  
+* Interactively draw grid experience  
 
 ## Technologies Used
-Django  
-Ajax  
-Sigma JS  
+* Django  
+* Ajax  
+* Sigma JS  
 
 ## Publication
 This application has been featured in a publication. You can read more about it at the following link: [Fluid Mixing in Grid-based Microfluidic grids](https://epubs.siam.org/doi/10.1137/1.9781611976229.15)
